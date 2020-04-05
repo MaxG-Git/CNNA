@@ -20,6 +20,8 @@ or
 ```console
 erase st
 ```
+<hr/>
+
 Next use Relad COmmand
 ```console
 reload
@@ -30,4 +32,4 @@ reload
 Next You May Be Promted with the following:
 
 <br>
-System Configuratiuons Has Been Modified. Save? [yes/no]: ```no```
+System Configuratiuons Has Been Modified. Save? [yes/no]: `no`
