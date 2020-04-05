@@ -10,13 +10,15 @@ or
 ```
 en
 ```
-<br/>
+<hr/>
 
 Next Erase Prevoius Configurations
 ```
 erase starup-config
+reload
 ```
 or
 ```
 erase st
+reload
 ```
