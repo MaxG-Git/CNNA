@@ -2,7 +2,7 @@
 * [Initialize Router and Reload](#initialize-router-and-reload)
 * [Initialize Switch and Reload](#initialize-switch-and-reload)
 
-
+Use a `?` after any command to see it's proper syntax
 </br>
 
 ## Initialize ROUTER and Reload
