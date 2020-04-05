@@ -2,6 +2,7 @@
 * [Initialize Router and Reload](#initialize-router-and-reload)
 * [Initialize Switch and Reload](#initialize-switch-and-reload)
 * [Show Version](#show-version)
+* [Configure Clock](#configure-clock)
 
 
 Use a `?` after any command to see it's proper syntax
@@ -100,3 +101,24 @@ Next You May Be Promted with the following:
 show version
 ```
 
+</br>
+
+## Configure Clock
+Display Current Clock
+```console
+show clock
+```
+
+<hr/>
+
+Enter Exec Mode
+```console
+en
+```
+
+<hr/>
+
+Use the following sytax to set the clock `clock set Time Month Date Year`. For this example we will use 15:08 on October 26th 2012
+```console
+clock set 15:08:00 Oct 26 2012
+```
