@@ -3,6 +3,7 @@
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
 * [Show Version](#show-version-)
 * [Configure Clock](#configure-clock-)
+* [Configure Switch](#configure-switch-)
 
 
 Use a `?` after any command to see it's proper syntax
@@ -122,3 +123,76 @@ Use the following sytax to set the clock `clock set Time Month Date Year`. For t
 ```console
 clock set 15:08:00 Oct 26 2012
 ```
+</br>
+
+## Configure Switch ⚙
+Enter EXEC
+```console
+en
+```
+
+<hr/>
+
+Configure Terminal
+```console
+configure terminal
+```
+or
+```console
+conf t
+```
+
+<hr/>
+
+Set Name For this example name will be: `S1`
+```console
+hostname S1
+```
+
+<hr/>
+
+Prevent Unwanted DNS Lookup
+```console
+no ip domain-lookup
+```
+
+<hr/>
+
+Enter Local Password, Prevent un authorized users. For this example password is: `cisco`
+```console
+enable secret class
+line con 0
+password cisco
+login
+exit
+```
+
+<hr/>
+
+Configure MOTD Banner
+```console
+banner motd #
+```
+
+<hr/>
+
+Enter your message. End command with: `#`. For this example we will use `Your Message Here` as the MOTD Banner
+```console
+Your Message Here#
+```
+
+<hr/>
+
+Save Configurations to Startup
+```console
+copy running-config startup-config
+```
+
+<hr/>
+
+Show Current Running Configurations
+```console
+show running-config
+```
+
+
