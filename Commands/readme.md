@@ -14,7 +14,7 @@ en
 
 Next Erase Prevoius Configurations
 ```console
-erase starup-config
+erase startup-config
 reload
 ```
 or
