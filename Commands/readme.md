@@ -22,7 +22,7 @@ erase st
 ```
 <hr/>
 
-Next use Relad COmmand
+Next use Realad COmmand
 ```console
 reload
 
@@ -32,5 +32,7 @@ reload
 Next You May Be Promted with the following:
 
 System Configuratiuons Has Been Modified. Save? [yes/no]: `no`
+
 Would you like to enter the initial configuration dialog? [yes/no]: `no`
+
 Would you like to terminate autoinstall? [yes/no]: `yes`
