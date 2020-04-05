@@ -1,8 +1,11 @@
 # Diffenrent Commands used in CNNA 👩‍💻
 * [Initialize Router and Reload](#initialize-router-and-reload)
 * [Initialize Switch and Reload](#initialize-switch-and-reload)
+* [Show Version](#show-version)
+
 
 Use a `?` after any command to see it's proper syntax
+
 </br>
 
 ## Initialize ROUTER and Reload
@@ -89,4 +92,11 @@ Next You May Be Promted with the following:
 * System Configuratiuons Has Been Modified. Save? [yes/no]: `no`
 * Would you like to enter the initial configuration dialog? [yes/no]: `no`
 * Would you like to terminate autoinstall? [yes/no]: `yes`
+
+</br>
+
+## Show Version
+```console
+show version
+```
 
