@@ -1,7 +1,8 @@
 # Diffenrent Commands used in CNNA
 * [Initialize Router and Reload](#initialize-router-and-reload)
+* [Initialize Switch and Reload](#initialize-switch-and-reload)
 
-## Initialize Router and Reload
+## Initialize ROUTER and Reload
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
