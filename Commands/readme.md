@@ -6,3 +6,17 @@ Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode
 ```console
 enable
 ```
+or
+```
+en
+```
+<br/>
+
+Next Erase Prevoius Configurations
+```
+erase starup-config
+```
+or
+```
+erase st
+```
