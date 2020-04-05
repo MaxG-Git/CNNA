@@ -31,5 +31,4 @@ reload
 
 Next You May Be Promted with the following:
 
-<br>
 System Configuratiuons Has Been Modified. Save? [yes/no]: `no`
