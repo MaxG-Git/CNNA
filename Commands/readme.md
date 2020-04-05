@@ -10,6 +10,7 @@ Use a `?` after any command to see it's proper syntax
 
 </br>
 
+
 ## Initialize ROUTER and Reload ▶
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
