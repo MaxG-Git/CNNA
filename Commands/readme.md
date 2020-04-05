@@ -7,18 +7,18 @@ Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode
 enable
 ```
 or
-```
+```console
 en
 ```
 <hr/>
 
 Next Erase Prevoius Configurations
-```
+```console
 erase starup-config
 reload
 ```
 or
-```
+```console
 erase st
 reload
 ```
