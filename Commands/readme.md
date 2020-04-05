@@ -2,7 +2,7 @@
 
 
 ## Initialize Router and Reload
-Start by Pressing <pre><code>enter</code></pre>. Afterwards Enter Privilaged EXEC Mode by using enable command
+Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
 ```
