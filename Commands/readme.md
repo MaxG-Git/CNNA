@@ -46,6 +46,7 @@ en
 ```
 <hr/>
 Detirmine if there is any VLAN (Virtual local-area networks) Enabled
+
 ```console
 show flash
 ```
