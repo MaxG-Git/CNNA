@@ -22,12 +22,12 @@ erase startup-config
 
 reload
 
+
 ```
 or
 ```console
 erase st
 
 reload
-
 
 ```
