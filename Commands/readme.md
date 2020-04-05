@@ -9,7 +9,7 @@ Use a `?` after any command to see it's proper syntax
 
 </br>
 
-## Initialize ROUTER and Reload
+## Initialize ROUTER and Reload ▶
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -45,7 +45,7 @@ Next You May Be Promted with the following:
 
 </br>
 
-## Initialize SWITCH and Reload
+## Initialize SWITCH and Reload ▶
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -96,14 +96,14 @@ Next You May Be Promted with the following:
 
 </br>
 
-## Show Version
+## Show Version ✔
 ```console
 show version
 ```
 
 </br>
 
-## Configure Clock
+## Configure Clock 🕒
 Display Current Clock
 ```console
 show clock
