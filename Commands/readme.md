@@ -15,10 +15,14 @@ en
 Next Erase Prevoius Configurations
 ```console
 erase startup-config
+
 reload
+
 ```
 or
 ```console
 erase st
+
 reload
+
 ```
