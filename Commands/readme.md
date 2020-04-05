@@ -2,6 +2,7 @@
 
 
 ## Initialize Router and Reload
+Start by Pressing <pre><code>enter</code></pre>. Afterwards Enter Privilaged EXEC Mode by using enable command
 ```console
-foo@bar:~$ enable
+enable
 ```
