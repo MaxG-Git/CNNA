@@ -1,9 +1,9 @@
 # Diffenrent Commands used in CNNA 👩‍💻
 * Some Simple Commands
     * [Show Version](#show-version-)
+    * [Configure Clock](#configure-clock-)
 * [Initialize Router and Reload](#initialize-router-and-reload-)
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
-* [Configure Clock](#configure-clock-)
 * [Configure Switch](#configure-switch-)
 
 
