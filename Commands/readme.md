@@ -3,7 +3,7 @@
     * [Enter Exec](#enter-exec)
     * [Erase Config](#erase-config)
     * [Configure Clock](#configure-clock-)
-    * [Show Vlan](#erase-config)
+    * [Show Vlan](#show-vlan)
     * [Show Version](#show-version-)
 * [Initialize Router and Reload](#initialize-router-and-reload-)
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
