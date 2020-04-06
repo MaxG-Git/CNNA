@@ -2,6 +2,8 @@
 * Some Simple Commands
     * [Show Version](#show-version-)
     * [Configure Clock](#configure-clock-)
+    * [Enter Exec](#enter-exec)
+    * [Erase Config](#erase-config)
 * [Initialize Router and Reload](#initialize-router-and-reload-)
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
 * [Configure Switch](#configure-switch-)
