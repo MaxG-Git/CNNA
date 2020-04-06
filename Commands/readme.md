@@ -1,4 +1,7 @@
 # Diffenrent Commands used in CNNA 👩‍💻
+* [Initialize Router and Reload](#initialize-router-and-reload-)
+* [Initialize Switch and Reload](#initialize-switch-and-reload-)
+* [Configure Switch](#configure-switch-)
 * Some Simple Commands
     * [Enter Exec](#enter-exec)
     * [Erase Config](#erase-config)
@@ -7,9 +10,6 @@
     * [Show Version](#show-version-)
     * [Configure Terminal](#configure-terminal)
     * [Configure MOTD Banner](#configure-motd-banner)
-* [Initialize Router and Reload](#initialize-router-and-reload-)
-* [Initialize Switch and Reload](#initialize-switch-and-reload-)
-* [Configure Switch](#configure-switch-)
 
 
 Use a `?` after any command to see it's proper syntax
