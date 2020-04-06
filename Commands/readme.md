@@ -5,6 +5,7 @@
     * [Configure Clock](#configure-clock-)
     * [Show Vlan](#show-vlan)
     * [Show Version](#show-version-)
+    * [Configure Terminal](#configure-terminal)
 * [Initialize Router and Reload](#initialize-router-and-reload-)
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
 * [Configure Switch](#configure-switch-)
@@ -142,7 +143,8 @@ en
 
 <hr/>
 
-Configure Terminal
+#### Configure Terminal
+Enter Configure Terminal Mode
 ```console
 configure terminal
 ```
