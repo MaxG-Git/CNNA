@@ -1,9 +1,10 @@
 # Diffenrent Commands used in CNNA 👩‍💻
 * Some Simple Commands
-    * [Show Version](#show-version-)
-    * [Configure Clock](#configure-clock-)
     * [Enter Exec](#enter-exec)
     * [Erase Config](#erase-config)
+    * [Configure Clock](#configure-clock-)
+    * [Show Vlan](#erase-config)
+    * [Show Version](#show-version-)
 * [Initialize Router and Reload](#initialize-router-and-reload-)
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
 * [Configure Switch](#configure-switch-)
