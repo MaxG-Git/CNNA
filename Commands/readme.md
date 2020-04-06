@@ -6,6 +6,7 @@
     * [Show Vlan](#show-vlan)
     * [Show Version](#show-version-)
     * [Configure Terminal](#configure-terminal)
+    * [Configure MOTD Banner](#configure-motd-banner)
 * [Initialize Router and Reload](#initialize-router-and-reload-)
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
 * [Configure Switch](#configure-switch-)
@@ -180,7 +181,8 @@ exit
 
 <hr/>
 
-Configure MOTD Banner
+#### Configure MOTD Banner
+This is the warning messaged displayed when trying to acess. I.E. "Unothorized access prohibeted"
 ```console
 banner motd #
 ```
