@@ -1,7 +1,8 @@
 # Diffenrent Commands used in CNNA 👩‍💻
+* Some Simple Commands
+    * [Show Version](#show-version-)
 * [Initialize Router and Reload](#initialize-router-and-reload-)
 * [Initialize Switch and Reload](#initialize-switch-and-reload-)
-* [Show Version](#show-version-)
 * [Configure Clock](#configure-clock-)
 * [Configure Switch](#configure-switch-)
 
@@ -12,6 +13,7 @@ Use a `?` after any command to see it's proper syntax
 
 
 ## Initialize ROUTER and Reload ▶
+#### Enter Exec
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -22,6 +24,7 @@ en
 ```
 <hr/>
 
+#### Erase Config
 Next Erase Prevoius Configurations
 ```console
 erase startup-config
@@ -32,7 +35,7 @@ erase st
 ```
 <hr/>
 
-Next use Reload Command
+Next use Reload Command to erase any old config info from memory.
 ```console
 reload
 
@@ -57,6 +60,8 @@ or
 en
 ```
 <hr/>
+
+#### Show VLAN
 Detirmine if there is any VLAN (Virtual local-area networks) Enabled
 
 ```console
