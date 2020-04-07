@@ -18,7 +18,8 @@ Use a `?` after any command to see it's proper syntax
 
 
 ## Initialize ROUTER and Reload ▶
-#### Enter Exec [^Back to top^](#diffenrent-commands-used-in-cnna-)
+#### Enter Exec
+**[`^        back to top        ^`](#)**
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -55,7 +56,7 @@ Next You May Be Promted with the following:
 
 </br>
 
-## Initialize SWITCH and Reload ▶ [^Back to top^](#diffenrent-commands-used-in-cnna-)
+## Initialize SWITCH and Reload ▶
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -66,7 +67,7 @@ en
 ```
 <hr/>
 
-#### Show VLAN [^Back to top^](#diffenrent-commands-used-in-cnna-)
+#### Show VLAN
 Detirmine if there is any VLAN (Virtual local-area networks) Enabled
 
 ```console
@@ -108,14 +109,14 @@ Next You May Be Promted with the following:
 
 </br>
 
-## Show Version ✔ [^Back to top^](#diffenrent-commands-used-in-cnna-)
+## Show Version ✔
 ```console
 show version
 ```
 
 </br>
 
-## Configure Clock 🕒 [^Back to top^](#diffenrent-commands-used-in-cnna-)
+## Configure Clock 🕒
 Display Current Clock
 ```console
 show clock
@@ -136,7 +137,7 @@ clock set 15:08:00 Oct 26 2012
 ```
 </br>
 
-## Configure Switch ⚙ [^Back to top^](#diffenrent-commands-used-in-cnna-)
+## Configure Switch ⚙
 Enter EXEC
 ```console
 en
@@ -144,7 +145,7 @@ en
 
 <hr/>
 
-#### Configure Terminal [^Back to top^](#diffenrent-commands-used-in-cnna-)
+#### Configure Terminal
 Enter Configure Terminal Mode
 ```console
 configure terminal
@@ -181,7 +182,7 @@ exit
 
 <hr/>
 
-#### Configure MOTD Banner [^Back to top^](#diffenrent-commands-used-in-cnna-)
+#### Configure MOTD Banner
 This is the warning messaged displayed when trying to acess. I.E. "Unothorized access prohibeted"
 ```console
 banner motd #
