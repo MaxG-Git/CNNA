@@ -121,6 +121,9 @@ Next You May Be Promted with the following:
 </br>
 
 ## Show Version ✔
+
+**[`^        back to top        ^`](#)**
+
 ```console
 show version
 ```
@@ -128,6 +131,9 @@ show version
 </br>
 
 ## Configure Clock 🕒
+
+**[`^        back to top        ^`](#)**
+
 Display Current Clock
 ```console
 show clock
@@ -149,6 +155,9 @@ clock set 15:08:00 Oct 26 2012
 </br>
 
 ## Configure Switch ⚙
+
+**[`^        back to top        ^`](#)**
+
 Enter EXEC
 ```console
 en
@@ -157,6 +166,9 @@ en
 <hr/>
 
 #### Configure Terminal
+
+**[`^        back to top        ^`](#)**
+
 Enter Configure Terminal Mode
 ```console
 configure terminal
@@ -194,6 +206,9 @@ exit
 <hr/>
 
 #### Configure MOTD Banner
+
+**[`^        back to top        ^`](#)**
+
 This is the warning messaged displayed when trying to acess. I.E. "Unothorized access prohibeted"
 ```console
 banner motd #
