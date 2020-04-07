@@ -19,7 +19,9 @@ Use a `?` after any command to see it's proper syntax
 
 ## Initialize ROUTER and Reload ▶
 #### Enter Exec
+
 **[`^        back to top        ^`](#)**
+
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -30,7 +32,10 @@ en
 ```
 <hr/>
 
-#### Erase Config [^Back to top^](#diffenrent-commands-used-in-cnna-)
+#### Erase Config
+
+**[`^        back to top        ^`](#)**
+
 Next Erase Prevoius Configurations
 ```console
 erase startup-config
@@ -57,6 +62,9 @@ Next You May Be Promted with the following:
 </br>
 
 ## Initialize SWITCH and Reload ▶
+
+**[`^        back to top        ^`](#)**
+
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -68,6 +76,9 @@ en
 <hr/>
 
 #### Show VLAN
+
+**[`^        back to top        ^`](#)**
+
 Detirmine if there is any VLAN (Virtual local-area networks) Enabled
 
 ```console
