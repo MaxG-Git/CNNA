@@ -18,7 +18,7 @@ Use a `?` after any command to see it's proper syntax
 
 
 ## Initialize ROUTER and Reload ▶
-#### Enter Exec
+#### Enter Exec [^Back to top^](#diffenrent-commands-used-in-cnna-)
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -29,7 +29,7 @@ en
 ```
 <hr/>
 
-#### Erase Config
+#### Erase Config [^Back to top^](#diffenrent-commands-used-in-cnna-)
 Next Erase Prevoius Configurations
 ```console
 erase startup-config
@@ -55,7 +55,7 @@ Next You May Be Promted with the following:
 
 </br>
 
-## Initialize SWITCH and Reload ▶
+## Initialize SWITCH and Reload ▶ [^Back to top^](#diffenrent-commands-used-in-cnna-)
 Start by Pressing `enter` on the keybaord. Afterwards Enter Privilaged EXEC Mode by using enable command:
 ```console
 enable
@@ -66,7 +66,7 @@ en
 ```
 <hr/>
 
-#### Show VLAN
+#### Show VLAN [^Back to top^](#diffenrent-commands-used-in-cnna-)
 Detirmine if there is any VLAN (Virtual local-area networks) Enabled
 
 ```console
@@ -108,14 +108,14 @@ Next You May Be Promted with the following:
 
 </br>
 
-## Show Version ✔
+## Show Version ✔ [^Back to top^](#diffenrent-commands-used-in-cnna-)
 ```console
 show version
 ```
 
 </br>
 
-## Configure Clock 🕒
+## Configure Clock 🕒 [^Back to top^](#diffenrent-commands-used-in-cnna-)
 Display Current Clock
 ```console
 show clock
@@ -136,7 +136,7 @@ clock set 15:08:00 Oct 26 2012
 ```
 </br>
 
-## Configure Switch ⚙
+## Configure Switch ⚙ [^Back to top^](#diffenrent-commands-used-in-cnna-)
 Enter EXEC
 ```console
 en
@@ -144,7 +144,7 @@ en
 
 <hr/>
 
-#### Configure Terminal
+#### Configure Terminal [^Back to top^](#diffenrent-commands-used-in-cnna-)
 Enter Configure Terminal Mode
 ```console
 configure terminal
@@ -181,7 +181,7 @@ exit
 
 <hr/>
 
-#### Configure MOTD Banner
+#### Configure MOTD Banner [^Back to top^](#diffenrent-commands-used-in-cnna-)
 This is the warning messaged displayed when trying to acess. I.E. "Unothorized access prohibeted"
 ```console
 banner motd #
