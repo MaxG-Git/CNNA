@@ -8,6 +8,7 @@
     * [Configure Clock](#configure-clock-)
     * [Show Vlan](#show-vlan)
     * [Show Version](#show-version-)
+    * [Status of Connected Interface](#status-of-connected-interface-)
     * [Configure Terminal](#configure-terminal)
     * [Configure MOTD Banner](#configure-motd-banner)
 
@@ -126,6 +127,15 @@ Next You May Be Promted with the following:
 
 ```console
 show version
+```
+</br>
+
+## Status of Connected Interface ✔
+
+**[`^        back to top        ^`](#)**
+
+```console
+show ip interface brief
 ```
 
 </br>
