@@ -33,7 +33,7 @@ en
 ```
 <hr/>
 
-#### Erase Config
+#### Erase Config t
 
 **[`^        back to top        ^`](#)**
 
