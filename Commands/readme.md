@@ -74,7 +74,6 @@ en
 
 #### Show VLAN
 
-**[`^        back to top        ^`](#)**
 
 Detirmine if there is any VLAN (Virtual local-area networks) Enabled
 
