@@ -167,7 +167,6 @@ en
 
 #### Configure Terminal
 
-**[`^        back to top        ^`](#)**
 
 Enter Configure Terminal Mode
 ```console
@@ -185,9 +184,9 @@ interface vlan 1
 ```
 
 
-Add Ip Adress, For this example we will use `192.168.1.2` on subnet `255.255.255.0`
+Add IP Adress, For this example we will use `192.168.1.2` on subnet `255.255.255.0`
 ```console
-ip adress 192.168.1.2 255.255.255.0
+ip address 192.168.1.2 255.255.255.0
 ```
 
 
