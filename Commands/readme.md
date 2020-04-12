@@ -31,7 +31,6 @@ or
 ```console
 en
 ```
-<hr/>
 
 #### Erase Config t
 
@@ -45,14 +44,12 @@ or
 ```console
 erase st
 ```
-<hr/>
 
 Next use Reload Command to erase any old config info from memory.
 ```console
 reload
 
 ```
-<hr/>
 
 Next You May Be Promted with the following:
 
@@ -74,7 +71,7 @@ or
 ```console
 en
 ```
-<hr/>
+
 
 #### Show VLAN
 
@@ -92,8 +89,6 @@ If the vlan.dat file is found, delete it
 delete vlan.dat
 ```
 
-<hr/>
-
 
 Next Erase Prevoius Configurations
 
@@ -104,14 +99,12 @@ or
 ```console
 erase st
 ```
-<hr/>
 
 Next use Reload Command
 ```console
 reload
 
 ```
-<hr/>
 
 Next You May Be Promted with the following:
 
@@ -149,14 +142,12 @@ Display Current Clock
 show clock
 ```
 
-<hr/>
 
 Enter Exec Mode
 ```console
 en
 ```
 
-<hr/>
 
 Use the following sytax to set the clock `clock set Time Month Date Year`. For this example we will use 15:08 on October 26th 2012
 ```console
@@ -173,7 +164,6 @@ Enter EXEC
 en
 ```
 
-<hr/>
 
 #### Configure Terminal
 
@@ -188,48 +178,44 @@ or
 conf t
 ```
 
-<hr/>
 
 Configure Vlan
 ```console
 interface vlan 1
 ```
 
-<hr/>
 
 Add Ip Adress, For this example we will use `192.168.1.2` on subnet `255.255.255.0`
 ```console
 ip adress 192.168.1.2 255.255.255.0
 ```
 
-<hr/>
 
 Instruct the switch to stay online
 ```console
 no shut
 ```
 
-<hr/>
-Exit connfig
+
+Exit config
 ```console
 exit
 ```
 
-<hr/>
+
 
 Set Name For this example name will be: `S1`
 ```console
 hostname S1
 ```
 
-<hr/>
+
 
 Prevent Unwanted DNS Lookup
 ```console
 no ip domain-lookup
 ```
 
-<hr/>
 
 Enter Local Password, Prevent un authorized users. For this example password is: `cisco`
 ```console
