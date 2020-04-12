@@ -190,6 +190,33 @@ conf t
 
 <hr/>
 
+Configure Vlan
+```console
+interface vlan 1
+```
+
+<hr/>
+
+Add Ip Adress, For this example we will use `192.168.1.2` on subnet `255.255.255.0`
+```console
+ip adress 192.168.1.2 255.255.255.0
+```
+
+<hr/>
+
+Instruct the switch to stay online
+```console
+no shut
+```
+
+<hr/>
+Exit connfig
+```console
+exit
+```
+
+<hr/>
+
 Set Name For this example name will be: `S1`
 ```console
 hostname S1
