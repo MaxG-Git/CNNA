@@ -32,9 +32,8 @@ or
 en
 ```
 
-#### Erase Config t
+#### Erase Config
 
-**[`^        back to top        ^`](#)**
 
 Next Erase Prevoius Configurations
 ```console
